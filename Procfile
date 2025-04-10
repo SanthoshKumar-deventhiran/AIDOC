@@ -1,1 +1,1 @@
-python-3.11.8
+web: gunicorn main:app
